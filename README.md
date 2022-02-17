@@ -6,6 +6,7 @@
  <p><strong>
    Nome: Suiriri
    </strong> </p>
-  <img src = ""
+  <img src = "https://user-images.githubusercontent.com/57279888/154379654-9c111fa8-98e3-4773-bab8-5ab4c607e6c4.jpg" width="180px" />
+ </div>
 
 <h2> Um trabalho para matéria de Inteligência Artificial </h2>
