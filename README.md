@@ -13,9 +13,6 @@
  </div>
 
   <div align="center">
-<h3><strong>
-   Espécies
-   </strong> </h3>
   <img src = "https://user-images.githubusercontent.com/57279888/154380357-0976d575-5a00-495b-84af-88e7d6cc39d3.jpg" width="150px" />
   <h3><strong>
    Nome: Suiriri-de-Garganta-Branca
@@ -23,9 +20,6 @@
  </div>
  
  <div align="center">
-<h3><strong>
-   Espécies
-   </strong> </h3>
   <img src = "https://user-images.githubusercontent.com/57279888/154380138-c16a9e00-c742-4116-900f-18b75bccb345.jpg" width="150px" />
   <h3><strong>
    Nome: Suiriri-Cavaleiro
